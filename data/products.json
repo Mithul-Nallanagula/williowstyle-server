@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3,
+    "name": "Hand-Embroidered Chanderi Kurta",
+    "category": "Ethnic Wear",
+    "price": "US$110.00",
+    "price_value": 110.00,
+    "image": "http://localhost:5001/images/new1.avif",
+    "tag": "New",
+    "description": "Exquisite hand-embroidered kurta crafted from pure Chanderi silk. Features delicate thread work, a elegant silhouette, and breathable fabric perfect for festive occasions."
+  },
+  {
+    "id": 4,
+    "name": "Vintage Wash Classic Denim Jacket",
+    "category": "Casual Chic",
+    "price": "US$75.00",
+    "price_value": 75.00,
+    "image": "http://localhost:5001/images/new2.avif",
+    "tag": null,
+    "description": "A timeless wardrobe staple. This vintage-washed denim jacket is tailored for a standard relaxed fit, complete with copper buttons, chest pockets, and side welt entries."
+  },
+  {
+    "id": 5,
+    "name": "Royal Velvet Evening Party Gown",
+    "category": "Festive Edit",
+    "price": "US$210.00",
+    "price_value": 210.00,
+    "image": "http://localhost:5001/images/new3.avif",
+    "tag": "Limited",
+    "description": "Make a statement in this luxurious velvet gown. Designed with an elegant scoop neckline, a flowing floor-length drape, and a soft sheen that commands attention."
+  },
+  {
+    "id": 6,
+    "name": "Linen Blend Casual Summer Shirt",
+    "category": "Western Wear",
+    "price": "US$45.00",
+    "price_value": 45.00,
+    "image": "http://localhost:5001/images/new4.avif",
+    "tag": "New",
+    "description": "An airy linen-blend shirt tailored for sunny days. Offers a lightweight texture, breathable wear, standard collar, and buttoned front for easy styling."
+  },
+  {
+    "id": 7,
+    "name": "Graceful Chiffon Saree",
+    "category": "Ethnic Wear",
+    "price": "US$95.00",
+    "price_value": 95.00,
+    "image": "http://localhost:5001/images/new5.avif",
+    "tag": null,
+    "description": "Drape yourself in sophistication. This lightweight chiffon saree features subtle gold borders and a graceful flow, ideal for light evening wear or formal gatherings."
+  },
+  {
+    "id": 8,
+    "name": "Pastel Embroidered Ensemble",
+    "category": "Ethnic Wear",
+    "price": "US$120.00",
+    "price_value": 120.00,
+    "image": "http://localhost:5001/images/new6.avif",
+    "tag": null,
+    "description": "A charming pastel-hued ethnic set. Beautifully embellished with hand-guided thread work, round neck styling, and matching trousers for a complete outfit."
+  },
+  {
+    "id": 9,
+    "name": "Boho Chic Cotton Maxi",
+    "category": "Casual Chic",
+    "price": "US$65.00",
+    "price_value": 65.00,
+    "image": "http://localhost:5001/images/new7.avif",
+    "tag": null,
+    "description": "Effortless bohemian flair. This cotton maxi dress showcases a tiered design, adjustable tie straps, and an all-over floral print perfect for casual weekend strolls."
+  },
+  {
+    "id": 10,
+    "name": "Classic Wrap Midi Dress",
+    "category": "Western Wear",
+    "price": "US$85.00",
+    "price_value": 85.00,
+    "image": "http://localhost:5001/images/new8.avif",
+    "tag": null,
+    "description": "A flattering wrap dress featuring a tie closure at the waist, a V-neckline, and an elegant midi hemline. Tailored from a silky crepe fabric that flows with your movement."
+  },
+  {
+    "id": 11,
+    "name": "Embellished Evening Wear",
+    "category": "Festive Edit",
+    "price": "US$185.00",
+    "price_value": 185.00,
+    "image": "http://localhost:5001/images/one.avif",
+    "tag": "New",
+    "description": "Celebrate special milestones in style. This embellished ensemble pairs intricate sequin and bead details with a modern premium design."
+  },
+  {
+    "id": 12,
+    "name": "Handcrafted Designer Saree",
+    "category": "Ethnic Wear",
+    "price": "US$160.00",
+    "price_value": 160.00,
+    "image": "http://localhost:5001/images/two.avif",
+    "tag": "Hot Seller",
+    "description": "A premium designer saree made by traditional weavers. Exquisite handloom textures, intricate pallu detailing, and matching blouse material included."
+  },
+  {
+    "id": 13,
+    "name": "Casual Weekend Kurti",
+    "category": "Casual Chic",
+    "price": "US$55.00",
+    "price_value": 55.00,
+    "image": "http://localhost:5001/images/three.avif",
+    "tag": null,
+    "description": "Comfortable cotton kurti featuring standard side slits and modern patterns, suited for daily errands or workwear."
+  },
+  {
+    "id": 14,
+    "name": "Elegant Summer Breeze Dress",
+    "category": "Western Wear",
+    "price": "US$75.00",
+    "price_value": 75.00,
+    "image": "http://localhost:5001/images/four.avif",
+    "tag": null,
+    "description": "A breezy sundress styled with detailed lace trim and a breathable cotton weave to keep you fresh and fashionable on hot afternoons."
+  }
+]
